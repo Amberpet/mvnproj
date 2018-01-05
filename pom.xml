@@ -16,6 +16,11 @@
             <version>7.0</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+             <groupId>cobertura</groupId>
+             <artifactId>cobertura</artifactId>
+             <version>1.8</version>
+        </dependency>
     </dependencies>
     <scm>
         <connection>scm:git:https://github.com/javaee-samples/javaee7-simple-sample.git</connection>
